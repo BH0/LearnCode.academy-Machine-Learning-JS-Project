@@ -5,6 +5,6 @@ This code is essentially from Youtube channel: LearnCode.academy - "Machine Lear
 
 I've known that machine learning can be done with Javascript, but ultimately, most tutorials have been in Python, and I didn't feel like using Python so this tutorial was perfect for me thus I just had to do it. 
 
-Note: this is mostly a reference for beginners and I strongly recommend you use Siraj Raval's to supplement your knowledge. 
+Note: this is mostly a reference for beginners and I strongly recommend you use Siraj Raval's content to supplement your knowledge. 
 
-Uses the Brian.js library. s
+Uses the Brain.js library. 
